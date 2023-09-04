@@ -87,11 +87,12 @@ print("RMSE= ",rmse)
 ![image](https://github.com/Afsarjumail/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118343395/bfeaaba9-67dc-4bd4-b115-c415495b9d75)
 
 ### Training Set
-![image](https://github.com/Afsarjumail/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118343395/c08bb9a0-0c30-422e-8d86-f3999d1a084b)
+![image](https://github.com/Afsarjumail/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118343395/80547da3-660a-4342-ad80-4bff055873d7)
 
 
 ### Testing Set
-![image](https://github.com/Afsarjumail/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118343395/752acbfd-ba14-4eb0-a345-e8bdb96edbc5)
+![image](https://github.com/Afsarjumail/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118343395/57ef8870-3a61-4a19-8590-b71d5f29fae8)
+
 
 
 ### Result:
